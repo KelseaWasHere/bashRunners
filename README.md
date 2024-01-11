@@ -23,3 +23,16 @@ Chance – Given the chance that the player is confused on what to do next, they
 for help. 
 Growth – As the player finishes their missions, their skills in Unix will grow. 
 Winner – The player wins when they have collected all six keys. 
+
+List of Skills Learned: 
+1. Terminal Shortcuts 
+2. Cursor movement 
+3. Common Filter commands 
+4. Navigation
+5. Files and directories 
+6. Machine or user management 
+7. Networking commands
+8. Vim shortcuts and commands
+9. Linux Root Subdirectories
+10. Ssh commands
+11. Bash scripting commands
