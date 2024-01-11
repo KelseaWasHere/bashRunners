@@ -1,8 +1,6 @@
 # bashRunners
 A final group project in my Intro to Unix class in which a video game was developed to teach the player how to use Unix. 
 
-Developed by: Brenna Holloway, Dallas DeSimone, Elijah Fraley, Kelsea Canaday
-
 Narrative: You are starting as a cadet bash-runner at the Bash Runner Force, also known as the B.R.F. 
 Your instructor and guide, L.A.R.K, will show you the ropes and teach you how to be a bash runner. 
 Then, you will be sent out on missions to test your skills and climb up the ranks. Watch out for bash-criminals, though- they're lurking in the net.
