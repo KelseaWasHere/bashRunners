@@ -34,3 +34,5 @@ List of Skills Learned:
 9. Linux Root Subdirectories
 10. Ssh commands
 11. Bash scripting commands
+
+The tarball is available if you would like to play the full game. If not, the shell files are available for view. 
